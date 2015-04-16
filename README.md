@@ -1,4 +1,4 @@
-# -encrypted-git
+# encrypted-git
 how to set a encrypted git repo
 
 Original link [https://gist.github.com/shadowhand/873637](https://gist.github.com/shadowhand/873637)
