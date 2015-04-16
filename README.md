@@ -8,7 +8,7 @@ Original link [https://gist.github.com/shadowhand/873637](https://gist.github.co
 Generate a salt and set a pass=123456, which will be used later
 ```
 openssl rand -hex 8
-f22033c982297647
+78a2972dfebb6df5
 ```
 
 ```bash
